@@ -3,6 +3,10 @@ an easy painter using C#
 
 Enjoy yourself :)
 
+### IDE and RE:
+- IDE: `Visual Studio 2015 Professional` , `Visual Studio C# 2015`
+- RE: `.NET framework 4.0` is required.
+
 ###Features: 
 - 支持画笔且可调节画笔的宽度
 - 可撤销/重做
